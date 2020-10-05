@@ -4,7 +4,7 @@
     private $host = 'localhost';
     private $db_name = 'Testowa';
     private $username = 'root';
-    private $password = 'Qweqweqwe@12';
+    private $password = 'password';
     private $conn;
 
     // DB Connect
